@@ -6,4 +6,5 @@ Git tracks changes of files
 Creating a new brach is quick;
 Creating a new branch is quick &simple。
 jdljfldjfl 
+分支管理策略
 
